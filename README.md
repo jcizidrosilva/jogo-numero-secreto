@@ -33,4 +33,6 @@ To experience the game, simply open the following link: <p><a href="https://jogo
 
 This project was created as part of a personal coding journey. If you have any questions or feedback, feel free to reach out.
 
+<img src="./img/1.png" alt="image-cover">
+
  
