@@ -22,11 +22,11 @@ take a moment to explore this fun and interactive game.
   <li>JavaScript</li>
 </ul>
 
+<h2>Try it Out</h2>
 
 
 
-Try it Out
-To experience the game, simply open the index.html file in your web browser. Have fun exploring the project!
+To experience the game, simply open the following link: <h4><a href="https://jogo-three-sepia.vercel.app/" target="_blank"></a>The Secret Number Game</h4>. Have fun exploring the project!
 
 Acknowledgments
 This project was created as part of a personal coding journey. If you have any questions or feedback, feel free to reach out.
