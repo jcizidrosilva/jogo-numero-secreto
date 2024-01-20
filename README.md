@@ -1,4 +1,4 @@
-#Secret Number Game
+ <h1>Secret Number Game</h1>
 Welcome to the Secret Number Game! This project is a simple web-based game where players can guess a secret number between 1 and 10. If you're considering hiring me, take a moment to explore this fun and interactive game.
 
 How to Play
