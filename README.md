@@ -5,10 +5,17 @@ players can guess a secret number between 1 and 10. If you're considering hiring
 take a moment to explore this fun and interactive game.
 
 <h3>How to Play</h3>
-Choose a number between 1 and 10.
-Click the "Guess" button to check if you've guessed the secret number.
-If your guess is correct, you win! The game will congratulate you and display the number of attempts.
-Feel free to start a new game anytime by clicking the "New game" button.
+
+<ol>
+  <li>Choose a number between 1 and 10.</li>
+  <li>Click the "Guess" button to check if you've guessed the secret number.</li>
+  <li>If your guess is correct, you win! The game will congratulate you and display the number of attempts.</li>
+  <li>Feel free to start a new game anytime by clicking the "New game" button.</li>
+</ol>
+
+
+
+
 Technologies Used
 HTML
 CSS
