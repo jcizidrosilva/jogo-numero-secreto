@@ -26,14 +26,10 @@ take a moment to explore this fun and interactive game.
 
 
 
-To experience the game, simply open the following link: https://jogo-three-sepia.vercel.app/. Have fun exploring the project!
+To experience the game, simply open the following link: <p><a href="https://jogo-three-sepia.vercel.app/" target="_blank">The Secret
+  Number Game</a></p>. Have fun exploring the project!
 
 Acknowledgments
 This project was created as part of a personal coding journey. If you have any questions or feedback, feel free to reach out.
 
-<h4>
-  <a href="https://jogo-three-sepia.vercel.app/" target="_blank"></a>The Secret
-  Number Game
-</h4>
- <p><a href="https://jogo-three-sepia.vercel.app/" target="_blank">The Secret
-  Number Game</a></p>
+ 
