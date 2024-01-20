@@ -4,7 +4,7 @@ Welcome to the Secret Number Game! This project is a simple web-based game where
 players can guess a secret number between 1 and 10. If you're considering hiring me, 
 take a moment to explore this fun and interactive game.
 
-<h3>How to Play</h3>
+<h2>How to Play</h2>
 
 <ol>
   <li>Choose a number between 1 and 10.</li>
@@ -14,9 +14,8 @@ take a moment to explore this fun and interactive game.
 </ol>
 
 
+<h2>Technologies Used</h2>
 
-
-Technologies Used
 HTML
 CSS
 JavaScript
