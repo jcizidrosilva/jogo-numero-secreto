@@ -16,9 +16,15 @@ take a moment to explore this fun and interactive game.
 
 <h2>Technologies Used</h2>
 
-HTML
-CSS
-JavaScript
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+
+
+
 Try it Out
 To experience the game, simply open the index.html file in your web browser. Have fun exploring the project!
 
