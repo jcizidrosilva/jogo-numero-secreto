@@ -25,11 +25,12 @@ take a moment to explore this fun and interactive game.
 <h2>Try it Out</h2>
 
 
-
 To experience the game, simply open the following link: <p><a href="https://jogo-three-sepia.vercel.app/" target="_blank">The Secret
   Number Game</a></p>. Have fun exploring the project!
 
-Acknowledgments
+
+<h2>Acknowledgments</h2>
+
 This project was created as part of a personal coding journey. If you have any questions or feedback, feel free to reach out.
 
  
