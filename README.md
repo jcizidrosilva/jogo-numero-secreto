@@ -35,4 +35,5 @@ This project was created as part of a personal coding journey. If you have any q
   <a href="https://jogo-three-sepia.vercel.app/" target="_blank"></a>The Secret
   Number Game
 </h4>
-
+<a href="https://jogo-three-sepia.vercel.app/" target="_blank">The Secret
+  Number Game</a>
