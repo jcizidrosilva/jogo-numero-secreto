@@ -31,3 +31,8 @@ To experience the game, simply open the following link: https://jogo-three-sepia
 Acknowledgments
 This project was created as part of a personal coding journey. If you have any questions or feedback, feel free to reach out.
 
+<h4>
+  <a href="https://jogo-three-sepia.vercel.app/" target="_blank"></a>The Secret
+  Number Game
+</h4>
+
